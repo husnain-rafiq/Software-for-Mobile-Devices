@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="myRoll">ROLL NO : 14L-5865</string>
+    <string name="relativeLayoutButton">Sign Up Realtive Layout</string>
+    <string name="constraintLayoutButton">Sign Up Constraint Layout</string>
+    <string name="checkBoxString">Are you Agree with Term and Conditions</string>
+    <string name="btnRegister">Register</string>
+    <string name="userName">Full Name</string>
+    <string name="userEmail">Email or Number</string>
+    <string name="userpassword">Password</string>
+
+
+</resources>
