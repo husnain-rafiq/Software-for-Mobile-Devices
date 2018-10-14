@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+    <string name="salogan">Find Your Own Taste</string>
+    <string name="choosetheOne">Choose the One</string>
+    <string name="madeChoice">Are You Customer OR Chef ?</string>
+
+    <string name="customerHeader">CUSTOMER REGISTER</string>
+    <string name="chefHeader">Chef REGISTER</string>
+    <string name="conditions">I agree to the Terms of Service</string>
+
+
+
+
+
+</resources>
