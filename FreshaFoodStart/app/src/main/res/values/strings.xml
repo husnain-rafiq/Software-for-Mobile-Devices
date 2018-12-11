@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FreshaFoodStart</string>
+    <string name="slogan">Welcome to FreshaFood where you can eat fresh food!</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SIGNUP</string>
+    <string name="password">1234</string>
+    <string name="phone_number">03364058414</string>
+    <string name="sign_In">Signin</string>
+    <string name="name">name</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu">Menu</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="Total">Total:</string>
+    <string name="PlaceOrder">PlaceOrder</string>
+
+</resources>

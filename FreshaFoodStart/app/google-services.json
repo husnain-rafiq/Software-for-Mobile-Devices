@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "196000751017",
+    "firebase_url": "https://freshafoodahmad.firebaseio.com",
+    "project_id": "freshafoodahmad",
+    "storage_bucket": "freshafoodahmad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196000751017:android:fe1dcfbd0b3c1060",
+        "android_client_info": {
+          "package_name": "com.example.hahma.freshafoodstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196000751017-069n5qonlrhs4ej4fgtcg7sb942ent71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hahma.freshafoodstart",
+            "certificate_hash": "b9e3f59d7ab8e4b8fe71d82392465f8151022df0"
+          }
+        },
+        {
+          "client_id": "196000751017-k30pes4h3he5kje4331ipbu9mli56afb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJkeATua0JS4uQVG1JXDxWl7qGLzijT7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196000751017-k30pes4h3he5kje4331ipbu9mli56afb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
